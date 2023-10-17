@@ -17,6 +17,7 @@ ul{
 }
 li{
     margin-right: 50px;
+    font-family: ubuntu;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -43,7 +44,8 @@ li{
 section{
 width: 1440px;
 height: 1052px;
-
+margin-left: 300px;
+margin-top: 115px;
  flex-wrap: wrap;
 background-color: #DDEAF8;
 row-gap: 51px;
@@ -80,7 +82,7 @@ footer{
     width: 1440px;
     height: 239px;
     background-color: #758BFD;
-    
+  
 }
 p{
     margin-top: 75px;
